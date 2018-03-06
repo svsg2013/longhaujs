@@ -1,0 +1,14 @@
+{
+  "name": "SpiderJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node . >output.txt"
+  },
+  "dependencies": {
+    "crawler": "^1.1.2",
+    "eval": "^0.1.2",
+    "url-slug": "^2.0.0"
+  }
+}
